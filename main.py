@@ -7,7 +7,7 @@ import pandas as pd
 
 # Set page configuration
 st.set_page_config(
-    page_title="Smart Inventory Tracker",
+    page_title="Inventory Management System",
     page_icon="📦",
     layout="wide"
 )
